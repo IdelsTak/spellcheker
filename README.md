@@ -1,6 +1,4 @@
-# Object-Oriented Data Structures Using Java—Spell-checker
-
-
+# Spellchecker
 
 You are required to create a personal dictionary and spellcheck program. There must only be two core classes. A class `WordInfo` and a class `Dictionary`
 
